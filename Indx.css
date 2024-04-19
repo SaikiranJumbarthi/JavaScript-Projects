@@ -1,0 +1,14 @@
+/* styles.css */
+.stopwatch {
+    text-align: center;
+  }
+  
+  .display {
+    font-size: 2em;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+  }
+  
